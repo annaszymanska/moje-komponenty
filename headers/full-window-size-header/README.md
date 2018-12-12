@@ -1,0 +1,1 @@
+naglowek na cala szerokosc i wysokosc okna z przykladowym artykulem
