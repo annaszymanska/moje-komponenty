@@ -1,0 +1,1 @@
+prosty nagłówek z logo CodeBery
